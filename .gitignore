@@ -1,0 +1,9 @@
+# Log files
+*.log
+
+# Windows thumbnail files
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
