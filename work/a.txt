@@ -5,3 +5,6 @@ a4
 Kleine kut aanpassing
 
 extra aanpassing
+
+"Fix 1: Nieuwe functionaliteit"
+"Fix 2: Bug opgelost"

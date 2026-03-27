@@ -5,3 +5,6 @@ b4
 Kleine kut aanpassing 2
 
 extra aanpassing 2
+
+"Update: Verbeterde documentatie" 
+"Update: Extra uitleg toegevoegd"
